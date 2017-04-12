@@ -1,6 +1,7 @@
-# Getty Digital Share 2017
-## Transcriptions "R" Us
+# Transcriptions "R" Us
+## Getty Digital Share 2017
 ## [Digital Art History](https://share.getty.edu/display/DAH)
+
 
 ### Instructions
 1. First, navigate to the [Transcription Form](https://goo.gl/forms/TgYfZ24YAeS0HpcH3).
