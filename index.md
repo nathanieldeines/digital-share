@@ -1,9 +1,9 @@
 # Getty Digital Share 2017
 ## Transcriptions "R" Us
 
-### Here's everything you need to start transcribing:
-1. [Transcription Submission Form](https://goo.gl/forms/TgYfZ24YAeS0HpcH3)
-2. [Hedley Finton's letter](http://hdl.handle.net/10020/860525_d166)
-3. [Kate Greenaway's letter](http://hdl.handle.net/10020/860525_d202)
+### Instructions
+1. First, navigate to the [Transcription Form](https://goo.gl/forms/TgYfZ24YAeS0HpcH3).
+2. The form is embedded with the facsimiles you'll be transcribing but it's easier with transcription box and image side-by-side. To do this, simply open [Hedley Finton's letter](http://hdl.handle.net/10020/860525_d166) and [Kate Greenaway's letter](http://hdl.handle.net/10020/860525_d202), resize and arrange the windows to create a side-by-side view.
+3. Submit your form and ask Nathaniel how you did.
 
 ### That's it!
