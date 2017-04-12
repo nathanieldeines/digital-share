@@ -3,6 +3,9 @@
 ## [Digital Art History](https://share.getty.edu/display/DAH)
 
 
+**Hello Sharers! Transcriptions "R" Us is a demonstration of one way to process crowdsourced transcriptions into usable data. This is not meant for general users, but rather to reveal some of the (hopefully) interesting aspects of this method.**
+
+
 ### Instructions
 1. First, navigate to the [Transcription Form](https://goo.gl/forms/TgYfZ24YAeS0HpcH3).
 
