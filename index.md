@@ -10,4 +10,4 @@
 
 4. Ask Nathaniel about the results.
 
-### That's it!
+### That's it! Thanks for ~~being a guinea pig~~ participating!
