@@ -17,6 +17,6 @@
 
 ### That's it! Thanks for ~~being a guinea pig~~ participating!
 
-### For more information on crowdsourcing efforts in the Digital Art History program, you can also contact [Melissa Gill](mailt:mgill@getty.edu).
+### For more information on crowdsourcing efforts in the Digital Art History program, you can also contact [Melissa Gill](mailto:mgill@getty.edu).
 
 ### For more information on the data science wizardry aspect of this project, contact [Matthew Lincoln](mailto:mlincoln@getty.edu).
