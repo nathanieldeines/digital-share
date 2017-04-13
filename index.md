@@ -11,9 +11,12 @@
 
 2. The form is embedded with the facsimiles you'll be transcribing but it's easier with transcription box and image side-by-side. To have it that way, simply open [Hedley Finton's letter](http://hdl.handle.net/10020/860525_d166) and [Kate Greenaway's letter](http://hdl.handle.net/10020/860525_d202), resize and arrange the windows to create a side-by-side view.
 
-3. Submit your form. Your transcriptions are automatically processed with R.
+3. Submit your form. Your transcriptions will be processed with R automatically.
 
 4. Ask Nathaniel about the results.
 
 ### That's it! Thanks for ~~being a guinea pig~~ participating!
 
+### For more information on crowdsourcing efforts in the Digital Art History program, you can also contact [Melissa Gill](mailt:mgill@getty.edu).
+
+### For more information on the data science wizardry aspect of this project, contact [Matthew Lincoln](mailto:mlincoln@getty.edu).
