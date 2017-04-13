@@ -4,7 +4,7 @@
 
 
 ### About This Demonstration
-Hello Sharers! *Transcriptions "R" Us* is a demonstration of **just one possible way to process crowdsourced transcriptions** into usable data. This is **not meant for general users**. This is **something special we whipped up just for you Digital Sharers**  to provide a window into some of the more interesting aspects of crowdsourcing transcriptions, as well as reveal some of the issues and questions this method provokes.
+Hello Sharers! *Transcriptions "R" Us* is a demonstration of **just one possible way to process crowdsourced transcriptions** into usable data. This is **not meant for general users**. This is **something special we whipped up just for you Digital Sharers** to provide you with a window into some of the more interesting aspects of crowdsourcing transcriptions, as well as reveal some of the issues and questions this method provokes.
 
 
 ### Instructions
@@ -14,7 +14,7 @@ Hello Sharers! *Transcriptions "R" Us* is a demonstration of **just one possible
 
 3. Submit your form. Your transcriptions will be processed with R automatically.
 
-4. Ask Nathaniel about the results.
+4. Ask [Nathaniel](mailto:ndeines@getty.edu) about the results or anything else.
 
 ### That's it! Thanks for ~~being a guinea pig~~ participating!
 
